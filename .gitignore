@@ -1,0 +1,8 @@
+!.gitkeep
+__pycache__
+.ipynb_checkpoints
+.pytest_cache
+.idea
+*.ipynb
+/results
+/data
